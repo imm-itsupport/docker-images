@@ -1,5 +1,5 @@
 FROM stackbrew/ubuntu:14.04
-MAINTAINER Brad Chapman "https://github.com/chapmanb"
+MAINTAINER Brad Chapman "http://github.com/chapmanb"
 
 # Setup a base system 
 RUN apt-get update && \
